@@ -1,0 +1,2 @@
+CREATE SCHEMA test;
+IMPORT FOREIGN SCHEMA sch FROM SERVER test_server INTO test;

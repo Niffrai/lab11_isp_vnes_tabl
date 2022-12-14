@@ -1,0 +1,1 @@
+CREATE SERVER file_server FOREIGN DATA WRAPPER file_fdw
